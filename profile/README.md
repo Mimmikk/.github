@@ -38,7 +38,7 @@ If you're in doubt or require a license to be able to use this please don't hesi
 ✅ SME and Individual-Focused Solutions\
 ✅ Open Source Advocates\
 ✅ Real-World Security Expertise\
-✅ Commitment to Practical, Usable Security\
+✅ Commitment to Practical, Usable Security
 
 
 
@@ -50,7 +50,7 @@ Explore our repositories and see how we can help you today!
 Resources:\
 [Mimmikk Website](https://mimmikk.com)\
 [Articles](https://mimmikk.com/articles)\
-[Guides](https://guides.mimmikk.com)\
+[Guides & Resources](https://mimmikk.com/resources)\
 [Tools](https://tools.mimmikk.com)\
 [Documentation](https://documentation.mimmikk.com)\
 [Contact Us](https://mimmikk.com/contact)
