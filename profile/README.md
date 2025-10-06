@@ -51,6 +51,6 @@ Resources:\
 [Mimmikk Website](https://mimmikk.com)\
 [Articles](https://mimmikk.com/articles)\
 [Guides & Resources](https://mimmikk.com/resources)\
-[Tools](https://tools.mimmikk.com)\
-[Documentation](https://documentation.mimmikk.com)\
+[Tools](https://mimmikk.com/tools)\
+[Documentation](https://mimmikk.com/tools)\
 [Contact Us](https://mimmikk.com/contact)
